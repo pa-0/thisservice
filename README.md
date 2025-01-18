@@ -6,7 +6,9 @@
 
 Create Mac OS X services from any script.
 
-[Main + Download](https://web.archive.org/web/20151022020930/http://wafflesoftware.net/thisservice/)[New in 3.0](https://web.archive.org/web/20151022020930/http://wafflesoftware.net/thisservice/whatsnew/)[Service list](https://web.archive.org/web/20151022020930/http://wafflesoftware.net/thisservice/services/)[Future](https://web.archive.org/web/20151022020930/http://wafflesoftware.net/thisservice/services/)
+| | | | |
+|--|--|--|--|
+|[Main + Download](https://web.archive.org/web/20151022020930/http://wafflesoftware.net/thisservice/)|[New in 3.0](https://web.archive.org/web/20151022020930/http://wafflesoftware.net/thisservice/whatsnew/)|[Service list](/Services.md/)|[Future](https://web.archive.org/web/20151022020930/http://wafflesoftware.net/thisservice/services/)|
 
 ## Hot feature requests and current tradeoffs
 
